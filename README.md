@@ -1,7 +1,7 @@
 ## Description: ##
 The Parking Management System is a Java-based application designed to manage parking operations such as parking vehicles, exiting vehicles, and processing payments. The system provides three interfaces: command-line interface (CLI), graphical user interface (GUI), and database interaction for storing parking records.
 
-## Features:##
+## Features: ##
 
 Park Vehicle: Allows users to park vehicles by providing details such as license plate, vehicle type, and payment method (cash or credit card).
 
