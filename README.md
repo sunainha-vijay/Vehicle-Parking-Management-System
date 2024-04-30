@@ -15,6 +15,10 @@ Graphical User Interface (GUI): Offers a more user-friendly interface for intera
 
 Database Integration: Stores parking records in a MySQL database, allowing for data persistence and retrieval.
 
+## Project Flow:
+![image](https://github.com/sunainha-vijay/Vehicle-Parking-Management-System/assets/113001688/39df258a-dd3e-41dc-a81d-de96ed1551e9)
+
+
 ## Files: ##
 
 ParkingApp.java: Contains the main class for the CLI interface.
