@@ -59,5 +59,15 @@ For the CLI interface, follow the on-screen prompts to park vehicles, exit vehic
 
 For the GUI interface, launch the ParkingGUI.java file, and use the provided buttons and fields to interact with the system.
 
-## License:##
+## Screenshots of user interacting with program:
+
+![1](https://github.com/Anie0205/Parking-Management-System/assets/113001688/14ee0186-dbde-48ff-9f39-7e57c96df962)
+![2](https://github.com/Anie0205/Parking-Management-System/assets/113001688/a8309e7f-fd2f-40d6-9bc5-404ffbbf4cb6)
+
+![WhatsApp Image 2024-05-01 at 8 31 31 PM](https://github.com/Anie0205/Parking-Management-System/assets/113001688/b11043f2-c697-416f-933e-6f6ebbf5bfa6)
+![WhatsApp Image 2024-05-01 at 8 31 56 PM](https://github.com/Anie0205/Parking-Management-System/assets/113001688/130a1280-2ad4-44b5-9203-48db99f7f9fc)
+![WhatsApp Image 2024-05-01 at 8 32 05 PM](https://github.com/Anie0205/Parking-Management-System/assets/113001688/f5b1dc6a-3c04-40c5-ae3b-825bcf9c028b)
+![WhatsApp Image 2024-05-01 at 8 33 46 PM](https://github.com/Anie0205/Parking-Management-System/assets/113001688/3d71777c-0b61-472b-b4e2-a2461867fc79)
+
+## License:
 This project is licensed under the [License Name] License. See the LICENSE file for details.
